@@ -1,0 +1,12 @@
+D:\Projects\MGEmployees\Employees.Infrastructure\bin\Debug\netstandard2.0\Employees.Core.dll
+D:\Projects\MGEmployees\Employees.Infrastructure\obj\Debug\netstandard2.0\Employees.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\MGEmployees\Employees.Infrastructure\obj\Debug\netstandard2.0\Employees.Infrastructure.AssemblyInfo.cs
+D:\Projects\MGEmployees\Employees.Infrastructure\bin\Debug\netstandard2.0\Employees.Infrastructure.deps.json
+D:\Projects\MGEmployees\Employees.Infrastructure\bin\Debug\netstandard2.0\Employees.Infrastructure.dll
+D:\Projects\MGEmployees\Employees.Infrastructure\bin\Debug\netstandard2.0\Employees.Infrastructure.pdb
+D:\Projects\MGEmployees\Employees.Infrastructure\bin\Debug\netstandard2.0\Employees.Core.pdb
+D:\Projects\MGEmployees\Employees.Infrastructure\obj\Debug\netstandard2.0\Employees.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\MGEmployees\Employees.Infrastructure\obj\Debug\netstandard2.0\Employees.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\MGEmployees\Employees.Infrastructure\obj\Debug\netstandard2.0\Employees.Infrastructure.csproj.CopyComplete
+D:\Projects\MGEmployees\Employees.Infrastructure\obj\Debug\netstandard2.0\Employees.Infrastructure.dll
+D:\Projects\MGEmployees\Employees.Infrastructure\obj\Debug\netstandard2.0\Employees.Infrastructure.pdb
